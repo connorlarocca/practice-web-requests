@@ -1,0 +1,15 @@
+GET https://en.wikipedia.org/wiki/2018_National_Hockey_League_All-Star_Game
+
+###
+
+
+HEAD https://youtube.com
+
+###
+
+
+options https://twitch.tv
+
+###
+
+trace https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
